@@ -7,7 +7,7 @@ A machine learning-based web application that predicts the selling price of a us
 
 ## 🔗 Live Demo
 
-👉 [https://vroomvalue-stkgz6uz7c8mlwaejcbxpe.streamlit.app/](#)
+👉 [Click here to try the app](https://vroomvalue-stkgz6uz7c8mlwaejcbxpe.streamlit.app/)
 
 ---
 
